@@ -139,18 +139,18 @@ void print_menu(void) {
     printf("🔢 CALCULATRICE CLI AVEC HISTORIQUE\n");
     printf("==================================================\n");
     printf("\n📌 OPERATIONS DE BASE:\n");
-    printf("  1. Addition (+)\n");
-    printf("  2. Soustraction (-)\n");
-    printf("  3. Multiplication (×)\n");
-    printf("  4. Division (÷)\n");
+    printf("  1. Addition :\n");
+    printf("  2. Soustraction :\n");
+    printf("  3. Multiplication :\n");
+    printf("  4. Division :\n");
     printf("\n📌 OPERATIONS AVANCEES:\n");
-    printf("  5. Factorielle (fact)\n");
-    printf("  6. Racine Carree (√)\n");
-    printf("  7. Puissance 2 (x²)\n");
-    printf("  8. Puissance 3 (x³)\n");
+    printf("  5. Factorielle :\n");
+    printf("  6. Racine Carree : \n");
+    printf("  7. Puissance 2  : \n");
+    printf("  8. Puissance 3 :\n");
     printf("\n📌 AUTRE:\n");
-    printf("  9. Afficher l'Historique\n");
-    printf("  0. Quitter\n");
+    printf("  9. Afficher l'Historique :\n");
+    printf("  0. Quitter :\n");
     printf("==================================================\n");
 }
 
